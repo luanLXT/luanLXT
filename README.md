@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá, eu sou Luan!
 
-<!--
-**luanLXT/luanLXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software** no **CEUB**  
+🏠 Moro em **Samambaia Norte - Conj 2, Quadra 210**  
+💻 Apaixonado por **Python**, **CSS**, **C++** e **Java**
 
-Here are some ideas to get you started:
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+
+---
+
+🔍 Sempre em busca de aprender algo novo e criar soluções criativas.  
+💬 Me mande uma mensagem se quiser colaborar ou trocar ideias!
+
+
