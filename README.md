@@ -42,16 +42,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/luanLXT/luanLXT/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/luanLXT/count.svg?"  />
-</div>
-
-###
-
 
